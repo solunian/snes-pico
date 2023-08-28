@@ -1,5 +1,7 @@
 # :floppy_disk: SNES Emulator for Raspberry Pi Pico
 
+Using parts from Hack Club's sprig console. This should be possible?
+
 ## Dev Notes
 
 - pico has 2 MB of flash memory for stuff to get loaded
