@@ -1,5 +1,7 @@
 # :floppy_disk: SNES Emulator for Raspberry Pi Pico
 
+Using parts from Hack Club's sprig console. This should be possible?
+
 ## Dev Notes
 
 - probably using C/C++ to emulate?
